@@ -4,3 +4,7 @@ def social_login():
     return x
 
 
+def extended_login():
+    y=10+10
+    print("Second commit for feature2")
+    return y
